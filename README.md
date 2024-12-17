@@ -1,2 +1,21 @@
-# Cadastro-de-im-veis
+# Cadastro-de-imóveis
 Um programa em JavaScript que funciona como um cadastro de imóveis.
+Requisitos:
+
+Deve ter um menu interativo que sempre é exibido até que o usuário escolha sair.
+
+O menu interativo deve mostrar no topo a quantidade de imóveis cadastrados.
+
+O menu deve ter a opção de salvar um imóvel.
+
+Para salvar um novo imóvel o programa deve pedir as seguintes informações:Nome do proprietário.Quantidade de quartos.Quantidade de banheiros.Se possui garagem.
+
+Nome do proprietário.
+
+Quantidade de quartos.
+
+Quantidade de banheiros.
+
+Se possui garagem.
+
+O menu também deve ter a opção de mostrar todos os imóveis salvos.
